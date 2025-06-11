@@ -1,0 +1,113 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(34, 34, 34);
+    color: rgb(47, 189, 255);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(24, 24, 24);
+    margin: 0;
+    padding: 15px;
+    border: 10px solid;
+    border-radius: 17px;
+}
+.pers1{
+    display: flex;
+    border: 10px solid;
+    padding: 10px;
+    border-radius: 16px;
+}
+input{
+    margin: 7px;
+    height: 45px;
+    background-color: rgb(24, 24, 24);
+    border: 7px solid rgb(47, 189, 255);
+    color: rgb(47, 189, 255);
+    border-radius: 10px;
+}
+.stats{
+    display: flex;
+    padding: 7px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: rgb(24, 24, 24);
+    border: 10px solid rgb(24, 24, 24);
+    border-radius: 15px;
+    text-align: center;
+}
+#stat{
+    padding: 10px;
+    display: flex;
+    height: 300px;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(24, 24, 24);
+    padding: 7px;
+    border: 7px solid rgb(47, 189, 255);
+    border-radius: 10px;
+    margin: 10px;
+}
+button{
+    border: 5px solid black;
+    background-color: rgb(24, 24, 24);
+    color: aqua;
+    padding: 2px;
+    border-radius: 7px;
+}
+.atk{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
+.dst{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
+.cons{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
+.int{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
+.sab{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
+.car{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
+.hp{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
+.pp{
+    margin: 10px;
+    background-color: rgb(17, 17, 17);
+    padding: 5px;
+    border: 5px solid rgb(17, 17, 17);
+    border-radius: 10px;
+}
